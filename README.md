@@ -1,4 +1,4 @@
-# **RideSharingSystem**
+# **Ride_Sharing_System**
 
 ## Introduction
 This ride-sharing application is designed to connect riders and drivers for on-demand transportation services. It allows users to create ride requests, track their rides in real-time, and manage their accounts. This README provides an overview of the application, its features, and how to set it up and run it.
